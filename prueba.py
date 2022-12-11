@@ -1,2 +1,2 @@
-Saludo = "¡Bienvenido a mi codigo en Pytnon!"
+Saludo = "¡Bienvenido a mi codigo en Python!"
 print(Saludo)
